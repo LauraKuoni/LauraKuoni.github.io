@@ -399,33 +399,33 @@ footer{
     -webkit-border-radius: 20px;
 }
 
-.html {
+.MATLAB {
     width: 90%;
     animation: html 3s;
 }
 
-.css {
+.Python {
     width: 75%;
     animation: css 3s;
 }
 
-.javascript {
+.LATEX {
     width: 63%;
     animation: javascript 3s;
 }
 
-.php {
-    width: 54%;
+.R {
+    width: 50%;
     animation: php 3s;
 }
 
-.comm-adapt {
-    width: 90%;
+.Tableau {
+    width: 30%;
     animation: comm-adapt 3s;
 }
 
-.team-player {
-    width: 85%;
+.html {
+    width: 30%;
     animation: team-player 3s;
 }
 
