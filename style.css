@@ -410,7 +410,7 @@ footer{
 }
 
 .LATEX {
-    width: 63%;
+    width: 75%;
     animation: javascript 3s;
 }
 
@@ -425,7 +425,7 @@ footer{
 }
 
 .html {
-    width: 30%;
+    width: 40%;
     animation: team-player 3s;
 }
 
